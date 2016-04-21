@@ -1,0 +1,13 @@
+{
+  "StoreResponse" : {
+    "code" : "200",
+    "message" : "success",
+    "offlineStatus" : false,
+    "payload" : {
+      "firstname":"Vamshi",
+      "lastname":"Vangapally",
+      "code":"node-server-sample",
+      "version":"0.0.1"
+    }
+  }
+}
